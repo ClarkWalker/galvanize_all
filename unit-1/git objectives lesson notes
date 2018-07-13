@@ -1,0 +1,28 @@
+git lesson objectives
+git is a command line version-controll system
+
+preparation
+    init        -- initializes 'git' in the current dir
+    remote      -- links local repo with gitHub account
+        want more info on this
+        format
+            |----  command  ----| |----for https----|  USERNAME /  REPONAME .git
+            git remote add origin https://github.com/ClarkWalker/clarksRepo2.git
+            |----  command  ----| |---for ssh---| USERNAME  /  REPONAME .git
+            git remote add origin git@github.com:ClarkWalker/clarksRepo2.git
+
+making changes
+    add         -- takes a file as an argument and adds it to be committed
+        add as opposed to commit...?
+    commit -m   -- follows up on add and actually makes the changes added by add
+        locally right...? or is it to gitHub
+
+gitHub
+    push        -- up to git hub
+        args?
+    pull        -- pulls down a version and updates the local repo
+        local versions? args?
+
+confirmation
+    status      -- shows the status
+        what else...?

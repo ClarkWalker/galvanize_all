@@ -1,0 +1,16 @@
+---
+- ContainerType: Unit
+  Title: Web-Development-Immersive-Precourse
+  Description: https://github.com/gSchool/fs-precourse/blob/master/README.md
+  Contents:
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/master/macos.md
+
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/master/shortcuts.md
+
+  - Type: Exercise
+    URL: https://github.com/gSchool/fs-precourse/blob/master/chrome.md
+
+  - Type: Lesson
+    URL: https://github.com/gSchool/fs-precourse/blob/master/typing.md

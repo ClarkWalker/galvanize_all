@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.js">
+  </script>
+</head>
+<body>
+  <!-- The line below requires the ng-app Angular builtin attribute to be declared on any ancestor container. In this case it is declared in the root html element which flags the entire contents as an angular app. -->
+  <p>{{'smart ' + 'beans'}} are {{2 + 2}} pandas</p>
+
+  <poop-weasel></poop-weasel>
+
+  <script src="/app/app.angular.js"></script>
+  <script src="/app/helloForm/helloForm.component.js"></script>
+  <script src="/app/displayName/displayName.component.js"></script>
+  <script src="/app/helloForm/helloForm.controller.js"></script>
+  <script src="/app/displayName/displayName.controller.js"></script>
+
+</body>
+</html>

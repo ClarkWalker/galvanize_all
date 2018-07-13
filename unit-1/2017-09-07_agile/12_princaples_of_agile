@@ -1,0 +1,113 @@
+Manifesto for Agile Software Development
+
+We are uncovering better ways of developing
+software by doing it and helping others do it.
+Through this work we have come to value:
+
+Individuals and interactions      over          processes and tools
+Working software                  over          comprehensive documentation
+Customer collaboration            over          contract negotiation
+Responding to change              over          following a plan
+
+That is, while there is value in the items on
+the right, we value the items on the left more.
+
+###############################################################################
+
+We follow these principles:
+
+PRINCIPLE-01: {
+  Our highest priority is to satisfy the customer
+  through early and continuous delivery
+  of valuable software.
+  ANTI-PRINCIPLE: {
+    profit at any cost,
+    make them wait for one big project
+  }
+}
+PRINCIPLE-02: {
+  Welcome changing requirements, even late in
+  development. Agile processes harness change for
+  the customer's competitive advantage.
+  ANTI-PRINCIPLE: {
+    Accept and stick to a fixed solution
+    mitigate change
+    stick to the plan
+  }
+}
+PRINCIPLE-03: {
+  Deliver working software frequently,
+  from a couple of weeks to a couple of months,
+  with a preference to the shorter timescale.
+  ANTI-PRINCIPLE: {
+    deliver one finial "finished" project
+  }
+}
+PRINCIPLE-04: {
+  Business people and developers must work
+  together daily throughout the project.
+  ANTI-PRINCIPLE: {
+    biz is biz devs is devs
+    they don't do the same thing
+    so why would they need to interact
+  }
+}
+PRINCIPLE-05: {
+  Build projects around motivated individuals.
+  Give them the environment and support they need,
+  and trust them to get the job done.
+  ANTI-PRINCIPLE: {
+
+  }
+}
+PRINCIPLE-06: {
+  The most efficient and effective method of
+  conveying information to and within a development
+  team is face-to-face conversation.
+  ANTI-PRINCIPLE: {
+
+  }
+}
+PRINCIPLE-07: {
+  Working software is the primary measure of progress.
+  ANTI-PRINCIPLE: {
+
+  }
+}
+PRINCIPLE-08: {
+  Agile processes promote sustainable development.
+  The sponsors, developers, and users should be able
+  to maintain a constant pace indefinitely.
+  ANTI-PRINCIPLE: {
+
+  }
+}
+PRINCIPLE-09: {
+  Continuous attention to technical excellence
+  and good design enhances agility.
+  ANTI-PRINCIPLE: {
+
+  }
+}
+PRINCIPLE-10: {
+  Simplicity--the art of maximizing the amount
+  of work not done--is essential.
+  ANTI-PRINCIPLE: {
+
+  }
+}
+PRINCIPLE-11: {
+  The best architectures, requirements, and designs
+  emerge from self-organizing teams.
+  ANTI-PRINCIPLE: {
+
+  }
+}
+PRINCIPLE-12: {
+  At regular intervals, the team reflects on how
+  to become more effective, then tunes and adjusts
+  its behavior accordingly.
+  ANTI-PRINCIPLE: {
+
+  }
+}
